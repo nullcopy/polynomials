@@ -44,3 +44,7 @@ let p = poly![1, 1]; // x + 1
 assert_eq!(p.eval(7).unwrap(), 8); // 1*7 + 1
 ```
 
+
+## License
+
+This project is licensed under the [GNU Affero General Public License v3.0 or later](LICENSE) (`AGPL-3.0-or-later`).
